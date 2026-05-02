@@ -19,7 +19,5 @@ public class conditional_statement {
         } else {
             System.out.println("equal to zero");
         }
-
     }
-
 }
